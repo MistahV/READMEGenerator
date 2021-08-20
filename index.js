@@ -8,7 +8,12 @@ const questions = [
     {
         name: "title",
         type: "input",
-        message: " "
+        message: "What is the title that you would like to give to this ReadME?"
+    },
+    {
+        name: "email",
+        type: "input",
+        message: "What is your email address?"
     }
 ];
 
