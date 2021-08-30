@@ -12,7 +12,7 @@ This application should be ready to go right from download. You may need to do a
 
 Links:
 https://www.loom.com/share/d4f91b40069a4e55a64bda4b18b9f38a  (walkthrough video)
-https://github.com/MistahV/WeatherDashboardHW.git (git code)
+https://github.com/MistahV/READMEGenerator.git (git code)
 
 
 ## Contributors
